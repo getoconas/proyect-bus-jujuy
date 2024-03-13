@@ -6,7 +6,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 
-var polyline = L.polyline(linea_6_general, {
+var polyline = L.polyline(linea_7_general, {
   color: 'purple',
   weight: 5,
   opacity: 1,
@@ -37,14 +37,16 @@ var decorator2 = L.polylineDecorator(linea_5_extension_2, {
   ]
 }).addTo(map);*/
 
-/**//*
+/*
 var busIcon = L.icon({
-  iconUrl: 'img/bus_center.jpg',
-  iconSize:     [40, 40], // size of the icon
-  iconAnchor:   [20, 20], // point of the icon which will correspond to marker's location
+  iconUrl: 'img/bus-pick.png',
+  iconSize:     [25, 25], // size of the icon
+  iconAnchor:   [10, 10], // point of the icon which will correspond to marker's location
 });
 
-L.marker([-24.20079,-65.30678], {icon: busIcon}).addTo(map);
-L.marker([-24.18237,-65.31124], {icon: busIcon}).addTo(map);
-//L.marker([-24.18906,-65.29562], {icon: busIcon}).addTo(map); -24.18237,-65.31124
+L.marker([-24.16463,-65.33620], {icon: busIcon}).addTo(map);
+L.marker([-24.18869,-65.30046], {icon: busIcon}).addTo(map);
+L.marker([-24.20225,-65.30207], {icon: busIcon}).addTo(map);
+L.marker([-24.21902,-65.27383], {icon: busIcon}).addTo(map);
+//L.marker([-24.18906,-65.29562], {icon: busIcon}).addTo(map); -24.21902,-65.27383
 /**/
