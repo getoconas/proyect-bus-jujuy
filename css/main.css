@@ -1,0 +1,10 @@
+#map {
+  width: 1500px;
+  height: 950px;
+}
+
+.flexbox-align {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

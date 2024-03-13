@@ -1,0 +1,14 @@
+{
+  "name": "proyect-bus-jujuy",
+  "version": "1.0.0",
+  "description": "Mapa de proyeccion de lineas de transporte urbanos de pasajeros en el Gran Jujuy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaston Enzo Toconas",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet-polylinedecorator": "^1.6.0"
+  }
+}
