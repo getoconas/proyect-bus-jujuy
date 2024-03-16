@@ -6,7 +6,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 
-var polyline = L.polyline(linea_7_general, {
+var polyline = L.polyline(linea_18_general, {
   color: 'purple',
   weight: 5,
   opacity: 1,
@@ -20,7 +20,7 @@ var polyline = L.polyline(lineas_sector_dos, {
   opacity: 1,
   smoothFactor: 0.5
 }).addTo(map);
-*/
+/**/
 
 /*var decorator1 = L.polylineDecorator(linea_5_extension_1, {
   patterns: [
