@@ -2,16 +2,16 @@
 // Líneas 29, 30, 31 y 32 reservadas
 
 // Línea 23
-// Alem - Los Molinos
+// Puente Lavalle - Los Molinos
 
 // Línea 24
-// Alem - Reyes
+// Puente Lavalle - Reyes
 
 // Línea 25
-// Alem - Termas de Reyes
+// Puente Lavalle - Termas de Reyes
 
 // Línea 26
-// Alem - Yala - Los Nogales
+// Puente Lavalle - Yala - Los Nogales
 
 // Línea 27
 // Terminal de Omnibus - Lozano - León
@@ -19,4 +19,4 @@
 // RAMAL B - Carlos Alvarado - Centro - 39
 
 // Línea 28
-// Alem - Lozano | Línea Proyección
+// Puente Lavalle - Lozano | Línea Proyección

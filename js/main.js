@@ -6,14 +6,14 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 
-var polyline = L.polyline(linea_18_general, {
+var polyline = L.polyline(lineas_sector_uno, {
   color: 'purple',
   weight: 5,
   opacity: 1,
   smoothFactor: 1
 }).addTo(map);
 
-/* */ /*
+/* */ 
 var polyline = L.polyline(lineas_sector_dos, {
   color: 'blue',
   weight: 5,
